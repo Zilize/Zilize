@@ -1,4 +1,4 @@
-### Hello, World!
+## Hello, World!
 
 - 🔥 Welcome to my [Homepage](https://czshang.cn) and my [Blog](https://moecode.com).
 - 🤗 I'm currently a graduate student in [Renmin University of China](https://www.ruc.edu.cn).
