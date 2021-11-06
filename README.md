@@ -5,4 +5,4 @@
 - 📙 Fortunately to be advised by Prof. [Wayne Xin Zhao](http://aibox.ruc.edu.cn/batmanfly).
 - 🔭 My major research interest lies on Recommender System and Natural Language Processing.
 - 👨‍💻 Worked as intern in Microsoft and Alibaba DAMO Academy.
-- 💪 Co-founder of [Pivot Studio](https://pivotstudio.cn) and maintainer of [HUSTPORT](http://hustport.pivotstudio.cn)
+- 💪 Co-founder of [Pivot Studio](https://pivotstudio.cn) and maintainer of [HUSTPORT](https://hustport.com)
