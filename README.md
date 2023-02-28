@@ -17,6 +17,7 @@
 
 ### Work Experience
 
+- Software Engineering Intern, 2023.2 - Now, [Taichi Graphics](https://taichi.graphics/)
 - Graphics Engineering Intern, 2022.7 - 2022.9, [Netease Interactive Entertainment](http://game.163.com/).
 - Reasearch Intern, 2021.9 - 2022.5, [Alibaba DAMO Academy](https://damo.alibaba.com/).
 - Software Engineering Intern, 2020.7 - 2020.9, [Microsoft STCA](https://www.microsoft.com/zh-cn/ard/aboutus/teams-STCA).
