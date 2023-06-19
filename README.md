@@ -8,19 +8,22 @@
 - 🤗 I'm currently a graduate student in [Renmin University of China](https://www.ruc.edu.cn).
 - 🔭 My major research interest lies on Computer Graphics, especially Real-Time Rendering.
 - 💪 Co-founder of [Pivot Studio](https://pivotstudio.cn) and maintainer of [HUSTPORT](https://hustport.com)
-- 🍑 Links: [知乎](https://www.zhihu.com/people/zhenbomy), [公众号](https://mp.weixin.qq.com/s/R_v2zkv9VR5pM1K-RUmt8A)
+- 🍑 Links: [Twitter](https://twitter.com/moecoding) - [即刻](https://okjk.co/mhYnzp) - [知乎](https://www.zhihu.com/people/zhenbomy) - [公众号](https://mp.weixin.qq.com/s/R_v2zkv9VR5pM1K-RUmt8A)
 
 ### Education
 
 - **M.E., Renmin University of China**, 2021 - 2023, [School of Information](http://info.ruc.edu.cn/), Advisor: Prof. [Wayne Xin Zhao](http://aibox.ruc.edu.cn/batmanfly).
 - **B.E., Huazhong University of Science and Technology**, 2017 - 2021, [School of Computer Science and Technology](http://cs.hust.edu.cn/).
 
-### Work Experience
+### Profession
 
-- Game Engine Engineer, 2023.7 - NOW, [Pan. Studio](https://weibo.com/u/7741328403)
-- Software Engineering Intern, 2023.2 - 2023.6, [Taichi Graphics](https://taichi.graphics/)
-- Graphics Engineering Intern, 2022.7 - 2022.9, [Netease Interactive Entertainment](http://game.163.com/).
-- Reasearch Intern, 2021.9 - 2022.5, [Alibaba DAMO Academy](https://damo.alibaba.com/).
-- Software Engineering Intern, 2020.7 - 2020.9, [Microsoft STCA](https://www.microsoft.com/zh-cn/ard/aboutus/teams-STCA).
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Zilize&bg_color=30,a96fc5,2892DB&title_color=fff&text_color=fff&card_width=200" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zilize&show_icons=true)
+**Work Experience**
+- Game Engine Engineer - [**Pan. Studio**](https://weibo.com/u/7741328403) - `Jul.2023 - Now`
+
+**Internship Experience**
+- Software Engineer - [**Taichi Graphics**](https://taichi.graphics/) - `Feb.2023 - Jun.2023`
+- Graphics Engineer - [**Netease**](http://game.163.com/) - `Jul.2022 - Sept.2022`
+- Reasearch Intern - [**Alibaba**](https://damo.alibaba.com/) - `Sept.2021 - May.2022`
+- Software Engineer - [**Microsoft**](https://www.microsoft.com/zh-cn/ard/aboutus/teams-STCA) - `Jul.2020 - Sept.2020`
