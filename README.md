@@ -1,6 +1,6 @@
 ## Hello, World!
 
-[![](https://s2.loli.net/2023/06/19/YuDHQNnjhoMEb9B.png)](https://github.com/Zilize/V-PathTracer)
+[![](https://s2.loli.net/2023/06/19/FZIAGlKNmpb45gW.png)](https://github.com/Zilize/V-PathTracer)
 
 ### About Me
 
