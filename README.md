@@ -17,7 +17,7 @@
 
 ### Profession
 
-<img align="right" alt="GIF" width="40%" src="https://github-readme-stats.vercel.app/api?username=Zilize&bg_color=30,a96fc5,2892DB&title_color=fff&text_color=fff&include_all_commits=true" />
+<img align="right" alt="GIF" width="50%" src="https://github-readme-stats.vercel.app/api?username=Zilize&bg_color=30,a96fc5,2892DB&title_color=fff&text_color=fff&include_all_commits=true" />
 
 **Work Experience**
 - Game Engine Engineer - [**Pan. Studio**](https://weibo.com/u/7741328403) - `Jul.2023 - Now`
