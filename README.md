@@ -5,10 +5,9 @@
 ### About Me
 
 - 🔥 Welcome to my [Homepage](https://czshang.cn) and my [Blog](https://moecode.com).
-- 🤗 I'm currently a graduate student in [Renmin University of China](https://www.ruc.edu.cn).
 - 🔭 My major research interest lies on Computer Graphics, especially Real-Time Rendering.
-- 💪 Co-founder of [Pivot Studio](https://pivotstudio.cn) and maintainer of [HUSTPORT](https://hustport.com)
-- 🍑 Links: [Twitter](https://twitter.com/moecoding) - [即刻](https://okjk.co/mhYnzp) - [知乎](https://www.zhihu.com/people/zhenbomy) - [公众号](https://mp.weixin.qq.com/s/R_v2zkv9VR5pM1K-RUmt8A)
+- 🤗 I've conducted research on recommendation systems and pre-trained language models.
+- 🍑 Links: [知乎](https://www.zhihu.com/people/zhenbomy)
 
 ### Education
 
