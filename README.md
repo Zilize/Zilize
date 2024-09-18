@@ -19,7 +19,8 @@
 <img align="right" alt="GIF" width="47%" src="https://github-readme-stats.vercel.app/api?username=Zilize&bg_color=30,a96fc5,2892DB&title_color=fff&text_color=fff&include_all_commits=true" />
 
 **Work Experience**
-- Game Engine Engineer - [**Pan. Studio**](https://weibo.com/u/7741328403) - `Jul.2023 - Now`
+- Gameplay Engineer - [**Timi Studio Group**](https://www.timistudios.com/) - `Aug.2024 - Now`
+- Game Engine Engineer - [**Pan. Studio**](https://dna.yingxiong.com/#/home) - `Jul.2023 - Jul.2024`
 
 **Internship Experience**
 - Software Engineer - [**Taichi Graphics**](https://taichi.graphics/) - `Feb.2023 - Jun.2023`
